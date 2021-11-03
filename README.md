@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Antonio 👋
 
+An iOS developer from Barcelona
 <!--
 **goojoob/goojoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Focused on Swift, SwiftUI & iOS
+- 🔨 Swift Server Side with Vapor
+- ⚡ Published apps in App Store: www.goojoob.dev
+- 📫 You can reach me at goojoob@goojoob.dev
