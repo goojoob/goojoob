@@ -10,5 +10,5 @@ An iOS developer from Barcelona
 <br/>
 <br/>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=goojoob&count_private=true&hide=issues&show_icons=true&theme=dracula" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goojoob&layout=compact&hide=css" /></a> |
+| <a href="https://goojoob.dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=goojoob&count_private=true&hide=issues&show_icons=true&theme=dracula" /></a> | <a href="https://goojoob.dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goojoob&layout=compact&hide=css" /></a> |
 | ------------- | ------------- |
