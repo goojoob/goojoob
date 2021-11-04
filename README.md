@@ -1,22 +1,20 @@
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=goojoob&count_private=true&hide=issues&show_icons=true&theme=dracula" />
+</a>
+
+<br/>
+
 ### Hi there, I'm Antonio 👋
 
 An iOS developer from Barcelona
-<!--
-**goojoob/goojoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 - 🔭 Focused on Swift, SwiftUI & iOS
 - 🔨 Swift Server Side with Vapor
 - ⚡ Published apps in App Store: www.goojoob.dev
 - 📫 You can reach me at goojoob@goojoob.dev
+
+<br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goojoob&layout=compact&hide=css" />
+</a>
