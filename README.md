@@ -1,6 +1,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=goojoob&count_private=true&hide=issues&show_icons=true&theme=dracula" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goojoob&layout=compact&hide=css" />
+</a>
 
 <br/>
 
@@ -13,8 +16,3 @@ An iOS developer from Barcelona
 - ⚡ Published apps in App Store: www.goojoob.dev
 - 📫 You can reach me at goojoob@goojoob.dev
 
-<br/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goojoob&layout=compact&hide=css" />
-</a>
