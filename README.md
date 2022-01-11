@@ -2,7 +2,7 @@
 
 An iOS developer from Barcelona
 
-- 🔭 Focused on Swift, SwiftUI & iOS
+- 🔭 Focused on Swift, CoreData, SwiftUI & iOS
 - 🔨 Swift Server Side with Vapor
 - ⚡ Published apps in App Store: www.goojoob.dev
 - 📫 You can reach me at goojoob@goojoob.dev
